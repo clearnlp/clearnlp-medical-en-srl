@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.clearnlp</groupId>
-  <artifactId>clearnlp-general-en-srl</artifactId>
+  <artifactId>clearnlp-medical-en-srl</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>clearnlp-general-en-srl</name>
+  <name>clearnlp-medical-en-srl</name>
   <description>Semantic role labeling model trained on various corpora in English..</description>
   <url>https://clearnlp.com</url>
 
@@ -20,9 +20,9 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/clearnlp/clearnlp-general-en-srl</url>
-    <connection>scm:git:git://github.com/clearnlp/clearnlp-general-en-srl.git</connection>
-    <developerConnection>scm:git:git@github.com:clearnlp/clearnlp-general-en-srl.git</developerConnection>
+    <url>https://github.com/clearnlp/clearnlp-medical-en-srl</url>
+    <connection>scm:git:git://github.com/clearnlp/clearnlp-medical-en-srl.git</connection>
+    <developerConnection>scm:git:git@github.com:clearnlp/clearnlp-medical-en-srl.git</developerConnection>
   </scm>
   
   <developers>
